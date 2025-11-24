@@ -1,4 +1,5 @@
 Olá 👋
+
 🔭 Estou trabalhando atualmente em: Finalizar a modelagem conceitual e a implementação SQL de um Sistema de Gerenciamento de Mobilidade Urbana/Logística.
 
 🌱 Estou aprendendo atualmente: HTML, CSS, JavaScript (para desenvolvimento web), e aprofundando em boas práticas de programação C e otimização de consultas SQL.
